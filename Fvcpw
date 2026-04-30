@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Portfolio | Técnico en Ciberseguridad</title>
+  <title>Felipe | Técnico en Ciberseguridad</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
   <style>
     :root{--green:#00ff41;--dark:#0a0e0a;--panel:#0d1117;--panel2:#161b22;--border:#00ff4122;--text:#c9d1d9;--accent:#58a6ff;}
@@ -83,7 +82,7 @@
 <section id="hero">
   <div class="hero-content">
     <div class="terminal-badge">$ whoami --role cybersecurity</div>
-    <h1>Hola, soy <span class="name">Tu Nombre</span></h1>
+    <h1>Hola, soy <span class="name">Felipe</span></h1>
     <div class="typewriter" id="typewriter"></div>
     <p class="hero-desc">Técnico especializado en proteger sistemas, redes e infraestructuras digitales. Apasionado por el ethical hacking, el análisis de amenazas y la defensa proactiva.</p>
     <div class="hero-btns">
@@ -106,11 +105,10 @@
     <div class="terminal-box">
       <div class="top-bar"><div class="dot dot-r"></div><div class="dot dot-y"></div><div class="dot dot-g"></div></div>
       <ul class="info-list">
-        <li><span class="key">Nombre:</span><span>Tu Nombre</span></li>
+        <li><span class="key">Nombre:</span><span>Felipe</span></li>
         <li><span class="key">Rol:</span><span>Técnico Ciberseguridad</span></li>
-        <li><span class="key">Ubicación:</span><span>Tu Ciudad, País</span></li>
-        <li><span class="key">Email:</span><span>tuemail@ejemplo.com</span></li>
-        <li><span class="key">Disponible:</span><span style="color:var(--green)">✓ Sí</span></li>
+        <li><span class="key">Ubicación:</span><span>Santiago, Chile</span></li>
+                <li><span class="key">Disponible:</span><span style="color:var(--green)">✓ Sí</span></li>
         <li><span class="key">Idiomas:</span><span>Español, Inglés</span></li>
         <li><span class="key">Especialidad:</span><span>Red Team / Blue Team</span></li>
         <li><span class="key">OS favorito:</span><span>Kali Linux / Parrot OS</span></li>
@@ -278,24 +276,18 @@
   <p class="section-title">contact</p>
   <p class="section-sub">// Hablemos de seguridad</p>
   <hr class="divider"/>
-  <div class="contact-grid">
+  <div style="max-width:600px">
     <div class="contact-info">
-      <div class="contact-item"><i class="fas fa-envelope"></i><a href="mailto:tuemail@ejemplo.com">tuemail@ejemplo.com</a></div>
-      <div class="contact-item"><i class="fab fa-linkedin"></i><a href="#" target="_blank">linkedin.com/in/tunombre</a></div>
-      <div class="contact-item"><i class="fab fa-github"></i><a href="#" target="_blank">github.com/tunombre</a></div>
-      <div class="contact-item"><i class="fas fa-map-marker-alt"></i><span>Tu Ciudad, País</span></div>
+            <div class="contact-item"><i class="fab fa-linkedin"></i><a href="https://www.linkedin.com/in/farenasc/" target="_blank">linkedin.com/in/farenasc</a></div>
+      <div class="contact-item"><i class="fab fa-github"></i><a href="https://github.com/Fvcpw" target="_blank">github.com/Fvcpw</a></div>
+      <div class="contact-item"><i class="fas fa-map-marker-alt"></i><span>Santiago, Chile</span></div>
     </div>
-    <form onsubmit="return false;">
-      <label>Nombre</label><input type="text" placeholder="Tu nombre"/>
-      <label>Email</label><input type="email" placeholder="tu@email.com"/>
-      <label>Mensaje</label><textarea placeholder="¿En qué puedo ayudarte?"></textarea>
-      <button class="btn btn-primary" type="submit">Enviar Mensaje</button>
-    </form>
+    
   </div>
 </section>
 
 <footer>
-  <p>Desarrollado con <span>&lt;/&gt;</span> por <span>Tu Nombre</span> — Técnico en Ciberseguridad</p>
+  <p>Desarrollado con <span>&lt;/&gt;</span> por <span>Felipe</span> — Técnico en Ciberseguridad</p>
   <p style="margin-top:.5rem;font-size:.75rem">Stay safe. Stay curious. Stay ethical.</p>
 </footer>
 
